@@ -63,6 +63,7 @@ div.menu a{
   color: black;
   font-weight: bold;
   margin-left: -30px;
+  text-decoration: none;
  
 }
 .menu{
@@ -110,6 +111,7 @@ div.christmas-items a{
   font-weight: bold;
   align-items: center;
   margin-left: -30px;
+  text-decoration: none;
 }
 div.christmas-items:hover{
   background-color: rgb(0, 218, 29);
@@ -136,6 +138,7 @@ div.game a{
   color: black;
   font-weight: bold;
   margin-left: -30px;
+  text-decoration: none;
 }
 div.game:hover{
   background-color:rgb(0, 255, 157);

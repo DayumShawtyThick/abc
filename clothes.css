@@ -63,10 +63,10 @@ div.menu a{
     color: black;
     font-weight: bold;
     margin-left: -30px;
+    text-decoration: none;
 }
 div.menu:hover{
     background-color: green;
-    text-decoration: underline black;
     -webkit-transition: background .55s ease;
   -moz-transition: background .55s ease;
   -ms-transition: background .55s ease;
@@ -91,10 +91,11 @@ div.christmas-items a{
     font-weight: bold;
     align-items: center;
     margin-left: -30px;
+    text-decoration: none;
 }
 div.christmas-items:hover{
     background-color: rgb(0, 165, 3);
-    text-decoration: underline black;
+
     -webkit-transition: background .55s ease;
   -moz-transition: background .55s ease;
   -ms-transition: background .55s ease;
@@ -117,10 +118,10 @@ div.game a{
     color: black;
     font-weight: bold;
     margin-left: -30px;
+    text-decoration: none;
 }
 div.game:hover{
     background-color:rgb(0, 255, 64);
-    text-decoration: underline black;
     -webkit-transition: background .55s ease;
   -moz-transition: background .55s ease;
   -ms-transition: background .55s ease;
@@ -355,9 +356,11 @@ div.game:hover{
 }
 .hotsales a{
   margin-right: 140px;
+  text-decoration: none;
 }
 .clothes a{
   margin-right: 140px;
+  text-decoration: none;
 }
 .toys{
     width: 33%;
@@ -367,6 +370,7 @@ div.game:hover{
 }
 .toys a{
     margin-right: 140px;
+    text-decoration: none;
     
 }
 .hotsales:hover{

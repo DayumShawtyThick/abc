@@ -63,6 +63,7 @@ div.menu a{
     color: black;
     font-weight: bold;
     margin-left: -30px;
+    text-decoration: none;
 }
 div.menu:hover{
     background-color: green;
@@ -90,6 +91,7 @@ div.christmas-items a{
     color: black;
     font-weight: bold;
     align-items: center;
+    text-decoration: none;
     margin-left: -30px;
 }
 div.christmas-items:hover{
@@ -117,6 +119,7 @@ div.game a{
     color: black;
     font-weight: bold;
     margin-left: -30px;
+    text-decoration: none;
 }
 div.game:hover{
     background-color:rgb(0, 255, 64);
