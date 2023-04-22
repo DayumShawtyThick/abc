@@ -1,3 +1,6 @@
 [submodule "path/to/submodule"] 
    path = https://dayumshawtythick.github.io/abc/
    url = git:https://dayumshawtythick.github.io/abc/
+[submodule "dcm"]
+	path = dcm
+	url = https://github.com/DayumShawtyThick/abc
