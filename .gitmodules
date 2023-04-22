@@ -1,4 +1,4 @@
-[submodule "abc"] 
-   path = https://dayumshawtythick.github.io/abc/
-   url = git:https://dayumshawtythick.github.io/abc/
+[submodule "main"] 
+   path = main
+   url = git:https://github.com/DayumShawtyThick/abc
 
